@@ -4,8 +4,8 @@
 Finvest is a blockchain-powered platform designed to support **startups, NGOs, charities**, and other initiatives. With **milestone-based fund allocation**, **Ethereum transactions**, and **AI-powered project management**, Finvest ensures a transparent, secure, and modern crowdfunding experience. 
 
 ##  **Features**
-- 🔑 **Milestone-based Funding**: Release funds only when project milestones are achieved.
-- 🔐 **Blockchain Security**: Built on Ethereum for decentralized, trustless operations.
+- **Milestone-based Funding**: Release funds only when project milestones are achieved.
+-  **Blockchain Security**: Built on Ethereum for decentralized, trustless operations.
 - 🖼️ **NFT Contributions**: Contributors receive NFTs as proof of participation.
 - 🤖 **AI Project Management**: Smart project planning and milestone tracking.
 - 💬 **Real-time Social Features**: Engage with creators and funders via live chat.
