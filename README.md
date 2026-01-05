@@ -11,10 +11,10 @@ Finvest is a blockchain-powered platform designed to support **startups, NGOs, c
 -  **Real-time Social Features**: Engage with creators and funders via live chat.
 -  **Wallet Integration**: Seamless Ethereum wallet connection using **RainbowKit** and **WalletConnect**.
 
-## 💻 **Smart Contract**
+##  **Smart Contract**
 **Contract Address**: `0x0cd118073a8ff6026ae465621664b277e32e2843`
 
-### ⚙️ **Core Functionalities**
+###  **Core Functionalities**
 - **Project Creation**: Start new projects with detailed goals and milestones.
 - **Contribution Handling**: Funders contribute using Ethereum; transactions are recorded on-chain.
 - **NFT Minting**: Every contribution mints an NFT as proof of participation.
