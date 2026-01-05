@@ -20,14 +20,14 @@ Finvest is a blockchain-powered platform designed to support **startups, NGOs, c
 - **NFT Minting**: Every contribution mints an NFT as proof of participation.
 - **Milestone Tracking**: Funds released based on successful milestone completion.
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 - **Frontend**: [React.js](https://reactjs.org), [Web3.js](https://web3js.readthedocs.io)
 - **Blockchain**: [Solidity](https://soliditylang.org), [Ethereum](https://ethereum.org)
 - **AI**: [Gemini API]
 - **Smart Contract Development**: [Hardhat](https://hardhat.org)
 - **Wallet Integration**: [RainbowKit](https://rainbowkit.com), [WalletConnect](https://walletconnect.com)
 
-## 🌍 **Deployment Details**
+##  **Deployment Details**
 - **Live Application**: [Finvest Live](https://finvest-2.vercel.app)
 - **Smart Contract Address**: `0x0cd118073a8ff6026ae465621664b277e32e2843`
 - **Network**: Ethereum Mainnet
