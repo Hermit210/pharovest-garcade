@@ -32,7 +32,7 @@ Finvest is a blockchain-powered platform designed to support **startups, NGOs, c
 - **Smart Contract Address**: `0x0cd118073a8ff6026ae465621664b277e32e2843`
 - **Network**: Ethereum Mainnet
 - **Demo Vido Link**: https://drive.google.com/file/d/1UY5Dg9_JiU7y9lR9tbbAefoYGpvIXZiD/view?usp=drive_link
-## ⚡ **Quick Start**
+##  **Quick Start**
 
 1. **Clone the repository**  
    ```bash
